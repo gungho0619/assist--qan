@@ -1,0 +1,13 @@
+{
+  "name": "assist-qan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gungho0619 <tzztntt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.13.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
